@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "999836643409",
+    "project_id": "music-player-4af8a",
+    "storage_bucket": "music-player-4af8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999836643409:android:d05581e5668e4985080870",
+        "android_client_info": {
+          "package_name": "com.thursday.musicplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999836643409-dn8e7bna3qpm76t41ef176ihcs85q0no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu-JVBcfDfB1eRk-CWRskiOLAciQLOeuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999836643409-dn8e7bna3qpm76t41ef176ihcs85q0no.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

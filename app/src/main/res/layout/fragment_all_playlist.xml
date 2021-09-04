@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".AllPlaylist">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_below="@id/createplaylist"
+        android:id="@+id/recyclerview_allplaylist"
+        android:layout_marginBottom="56dp"
+        android:layout_height="match_parent"/>
+    <Button
+        android:id="@+id/createplaylist"
+        android:layout_width="55dp"
+        android:layout_height="55dp"
+        android:layout_gravity="end|bottom"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="56dp"
+        android:background="@drawable/ic_baseline_add_circle_outline_24"
+        app:backgroundTint="@color/black" />
+</FrameLayout>
